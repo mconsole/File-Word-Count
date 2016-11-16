@@ -1,0 +1,6 @@
+C:\Code Projects\C#\Word Count\Word Count\bin\Debug\Word Count.exe.config
+C:\Code Projects\C#\Word Count\Word Count\bin\Debug\Word Count.exe
+C:\Code Projects\C#\Word Count\Word Count\bin\Debug\Word Count.pdb
+C:\Code Projects\C#\Word Count\Word Count\obj\Debug\Word Count.csprojResolveAssemblyReference.cache
+C:\Code Projects\C#\Word Count\Word Count\obj\Debug\Word Count.exe
+C:\Code Projects\C#\Word Count\Word Count\obj\Debug\Word Count.pdb
